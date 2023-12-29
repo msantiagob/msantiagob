@@ -55,7 +55,7 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+<img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 <img style="margin: 10px" src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="Bash" height="50" />
   <img style="margin: 10px" src="https://images.viblo.asia/a67ecbd6-f422-4471-b62c-37bade997690.png" alt="ruby" height="50" />
