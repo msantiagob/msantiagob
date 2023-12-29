@@ -34,7 +34,7 @@
 
 ###
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="60%">
 
 
 
