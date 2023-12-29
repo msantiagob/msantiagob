@@ -49,7 +49,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" height="50" alt="wordpress logo"  /> 
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="60%">
 
 
 
