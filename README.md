@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Santiago Bedoya <br><br>- 🔭 I’m working as Sofware Developer<br>- 🚀 I am currently venturing into providing programming courses with an entrepreneurial focus. <br>- ⚡ In my free time, I explore emerging technologies and trends in the tech industry.</p>
+<p align="left">I'm Santiago Bedoya <br><br>- 🔭 I’m working as a Sofware Developer<br>- 🚀 I am currently venturing into providing programming courses with an entrepreneurial focus. <br>- ⚡ In my free time, I explore emerging technologies and trends in the tech industry.</p>
 
 ###
 
